@@ -4,10 +4,10 @@
 
 I recelty graduated from [<img src="https://github.com/Greshym/Greshym/blob/main/img/CaptureO'ClockLogo.PNG" height="24em" align="center" title="O'Clock"/>](https://oclock.io/), where i scpecifyed myself in back-programming. But this is not all I ever participated to, so, where did I go ..?
 
-- I'll be quick for the begining. First, I wanted to own my own pastry shop, so I learned everything about food in [<img src="">]
-, and worked at [] and [] among others. It did teach me a lot about hard-working.
-- I then realised I needed a big turn in my life, and since I did not know either I had to go left or right, I went to []
-- This is when I started getting really interested in programming, i went by [], I took [open classroom's c classes], and participated [42's pool session], before finally getting to O'clock.
+- I'll be quick for the begining. First, I wanted to own my own pastry shop, so I learned everything about food in [<img src="https://github.com/Greshym/Greshym/blob/main/img/CaptureFerrandiLogo.PNG" height="24em" align="center" title="Ferrandi"/>](https://www.ferrandi-paris.fr/)
+, and worked at [<img src="https://github.com/Greshym/Greshym/blob/main/img/CaretteLogo.PNG" height="24em" align="center" title="Carette"/>](https://paris-carette.fr/) and [<img src="https://github.com/Greshym/Greshym/blob/main/img/Porel&ChabotLogo.PNG" height="24em" align="center" title="Potel & Chabot"/>](https://poteletchabot.com/) among others. It did teach me a lot about hard-working.
+- I then realised I needed a big turn in my life, and since I did not know either I had to go left or right, I went to [<img src="https://github.com/Greshym/Greshym/blob/main/img/CaptureIFFEuropeLogo.PNG" height="24em" align="center" title="IFF Europe"/>](https://www.iffeurope.fr/)
+- This is when I started getting really interested in programming, I went by [<img src="https://github.com/Greshym/Greshym/blob/main/img/TheHackingProjectLogo.PNG" height="24em" align="center" title="The Hacking Project"/>](https://www.thehackingproject.org/), I took [<img src="https://github.com/Greshym/Greshym/blob/main/img/OpenclassroomsLogo.PNG" height="24em" align="center" title="Openclassroom"/>](https://openclassrooms.com/fr/) 's C classes, and participated [<img src="https://github.com/Greshym/Greshym/blob/main/img/42Logo.PNG" height="24em" align="center" title="42"/>](https://42.fr/)'s pool, before finally getting to O'clock.
 
 ## On my Way there, I learned
 
