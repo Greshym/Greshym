@@ -17,7 +17,7 @@ I recelty graduated from [<img src="https://github.com/Greshym/Greshym/blob/main
 - A bit of [<img src="https://img.shields.io/badge/Language-Ruby-blue" align="center"/>](https://www.ruby-lang.org/fr/) [<img src="https://img.shields.io/badge/Language-Unity-blue" align="center"/>](https://unity.com/fr)
 - A lot more of [<img src="https://img.shields.io/badge/Language-C-blue" align="center"/>](https://fr.wikipedia.org/wiki/C_(langage)) [<img src="https://img.shields.io/badge/Language-JS-blue" align="center"/>](https://www.javascript.com/) [<img src="https://img.shields.io/badge/Language-Bash-blue" align="center"/>](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) [<img src="https://img.shields.io/badge/Language-MySQL-blue" align="center"/>](https://www.mysql.com/fr/)
 - A whole lot more about [<img src="https://img.shields.io/badge/This%20thing-Life-ff69b4" align="center"/>](https://fr.wikipedia.org/wiki/Life_:_Origine_inconnue)
-- I also use / am familiar with [<img src="https://img.shields.io/badge/operating%20system-Ubuntu-success" align="center"/>](https://www.ubuntu-fr.org/)  [<img src="https://img.shields.io/badge/Tool-Git%20Kraken-yellow" align="center"/>](https://www.gitkraken.com/) [<img src="https://img.shields.io/badge/Tool-Vim-yellow" align="center"/>](https://fr.wikipedia.org/wiki/Vim)
+- I also use / am familiar with [<img src="https://img.shields.io/badge/operating%20system-Ubuntu-success" align="center"/>](https://www.ubuntu-fr.org/)  [<img src="https://img.shields.io/badge/Tool-Git%20Kraken-orange" align="center"/>](https://www.gitkraken.com/) [<img src="https://img.shields.io/badge/Tool-Vim-orange" align="center"/>](https://fr.wikipedia.org/wiki/Vim)
 <br>
 
 ## This part is about my contact and where you can find me 👁‍🗨
