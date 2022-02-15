@@ -18,19 +18,17 @@ I recelty graduated from [<img src="https://github.com/Greshym/Greshym/blob/main
 
 ## This part is about my contact and where you can find me
 
-[<img src=]
+[<img src="https://github.com/Greshym/Greshym/blob/main/img/linkedinLogo.png"/>](https://www.linkedin.com/in/boris-vallantin-355124232/)
+
+Yes I am a chameleon
+
+## Lastly, this is my activities
+
+- You can find my latest work here https://github.com/Greshym/projet-10-radamir . This was a group project.
+- I am also a big fan of sculpture, you can see my work on cover here. I also draw and take pictures.
+- Big videogames fan here
+- I mostly read fantaisy and scy-fy novels (my favorite writers are Frank Herbert and Isaac Asimov)
 
 <!--
 **Greshym/Greshym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
