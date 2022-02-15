@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I am Boris Vallantin, youn web developper from Rueil-Malmaison, France.
 
-I recelty graduated from [<img src="https://github.com/Greshym/Greshym/blob/main/img/CaptureO'ClockLogo.PNG" height="24em" align="center" title="O'Clock"/>], where i scpecifyed myself in back-programming.
+I recelty graduated from [<img src="https://github.com/Greshym/Greshym/blob/main/img/CaptureO'ClockLogo.PNG" height="24em" align="center" title="O'Clock"/>](https://oclock.io/), where i scpecifyed myself in back-programming.
 
 
 
