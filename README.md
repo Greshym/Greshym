@@ -18,6 +18,8 @@ I recelty graduated from [<img src="https://github.com/Greshym/Greshym/blob/main
 
 ## This part is about my contact and where you can find me
 
+[<img src=]
+
 <!--
 **Greshym/Greshym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
