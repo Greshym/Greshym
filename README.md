@@ -1,4 +1,4 @@
-![Cover](https://github.com/Greshym/Greshym/img/photo.jpg)
+![Cover](https://github.com/Greshym/Greshym/blob/main/img/photo.jpg)
 
 ### Hi there 👋
 
