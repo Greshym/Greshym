@@ -9,7 +9,7 @@ I recelty graduated from [<img src="https://github.com/Greshym/Greshym/blob/main
 - I then realised I needed a big turn in my life, and since I did not know either I had to go left or right, I went to [<img src="https://github.com/Greshym/Greshym/blob/main/img/CaptureIFFEuropeLogo.PNG" height="24em" align="center" title="IFF Europe"/>](https://www.iffeurope.fr/)
 - This is when I started getting really interested in programming, I went by [<img src="https://github.com/Greshym/Greshym/blob/main/img/TheHackingProjectLogo.PNG" height="24em" align="center" title="The Hacking Project"/>](https://www.thehackingproject.org/), I took [<img src="https://github.com/Greshym/Greshym/blob/main/img/OpenclassroomsLogo.PNG" height="24em" align="center" title="Openclassroom"/>](https://openclassrooms.com/fr/) 's C classes, and participated [<img src="https://github.com/Greshym/Greshym/blob/main/img/42Logo.PNG" height="28em" align="center" title="42"/>](https://42.fr/)'s pool, before finally getting to O'clock.
 
-## On my Way there, I learned
+## On my way there, I learned
 
 - A bit of [<img src="https://img.shields.io/badge/Language-Ruby-blue" align="center"/>](https://www.ruby-lang.org/fr/) [<img src="https://img.shields.io/badge/Language-Ruby-blue" align="center"/>](https://unity.com/fr)
 - A lot more of [<img src="https://img.shields.io/badge/Language-C-blue" align="center"/>](https://fr.wikipedia.org/wiki/C_(langage)) [<img src="https://img.shields.io/badge/Language-JS-blue" align="center"/>](https://www.javascript.com/) [<img src="https://img.shields.io/badge/Language-Bash-blue" align="center"/>](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) [<img src="https://img.shields.io/badge/Language-MySQL-blue" align="center"/>](https://www.mysql.com/fr/)
