@@ -11,9 +11,9 @@ I recelty graduated from [<img src="https://github.com/Greshym/Greshym/blob/main
 
 ## On my Way there, I learned
 
-- A bit of [<img src="https://img.shields.io/badge/Language-Ruby-blue"/>](https://www.ruby-lang.org/fr/), [<img src="https://img.shields.io/badge/Language-Ruby-blue"/>](https://unity.com/fr)
-- A lot more of [<img src="https://img.shields.io/badge/Language-C-blue"/>](https://fr.wikipedia.org/wiki/C_(langage)), [<img src="https://img.shields.io/badge/Language-JS-blue"/>](https://www.javascript.com/), [<img src="https://img.shields.io/badge/Language-Bash-blue"/>](https://en.wikipedia.org/wiki/Bash_(Unix_shell)), [<img src="https://img.shields.io/badge/Language-MySQL-blue"/>](https://www.mysql.com/fr/)
-- A whole lot moe about [<img src="https://img.shields.io/badge/This%20thing-Life-ff69b4"/>](https://fr.wikipedia.org/wiki/Life_:_Origine_inconnue)
+- A bit of [<img src="https://img.shields.io/badge/Language-Ruby-blue" align="center"/>](https://www.ruby-lang.org/fr/), [<img src="https://img.shields.io/badge/Language-Ruby-blue" align="center"/>](https://unity.com/fr)
+- A lot more of [<img src="https://img.shields.io/badge/Language-C-blue" align="center"/>](https://fr.wikipedia.org/wiki/C_(langage)), [<img src="https://img.shields.io/badge/Language-JS-blue" align="center"/>](https://www.javascript.com/), [<img src="https://img.shields.io/badge/Language-Bash-blue" align="center"/>](https://en.wikipedia.org/wiki/Bash_(Unix_shell)), [<img src="https://img.shields.io/badge/Language-MySQL-blue" align="center"/>](https://www.mysql.com/fr/)
+- A whole lot moe about [<img src="https://img.shields.io/badge/This%20thing-Life-ff69b4" align="center"/>](https://fr.wikipedia.org/wiki/Life_:_Origine_inconnue)
 
 ## This part is about my contact and where you can find me
 
