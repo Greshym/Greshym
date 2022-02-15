@@ -32,7 +32,7 @@ Yes I am a chameleon 🐸
 
 
 - You can find my latest work here https://github.com/Greshym/projet-10-radamir . This was a group project.
-- I am also a big fan of sculpture, you can see my work on cover here (coming soon). I also draw and take pictures.
+- I am also a sculpture enthusiast, you can see my work on cover here (coming soon). I also draw and take pictures.
 - Big videogames fan here
 - I mostly read fantaisy and scy-fy novels (my favorite writers are Frank Herbert and Isaac Asimov)
 
