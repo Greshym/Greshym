@@ -24,7 +24,7 @@ I recelty graduated from [<img src="https://github.com/Greshym/Greshym/blob/main
 ## This part is about my contact and where you can find me 👁‍🗨
 
 
-[<img src="https://github.com/Greshym/Greshym/blob/main/img/linkedinLogo.png" height="40em"/>](https://www.linkedin.com/in/boris-vallantin-355124232/) &nbsp; &nbsp; <a href="mailto:proboris@protonmail.com" height="48em"> <img src="https://github.com/Greshym/Greshym/blob/main/img/email.png" height="48em"/></a>
+[<img src="https://github.com/Greshym/Greshym/blob/main/img/linkedinLogo.png" height="40em"/>](https://www.linkedin.com/in/boris-vallantin-355124232/) &nbsp; &nbsp; <a href="mailto:proboris@protonmail.com" height="48em"> <img src="https://github.com/Greshym/Greshym/blob/main/img/email.png" height="46em"/></a>
 
 Yes I am a chameleon 🐸
 
