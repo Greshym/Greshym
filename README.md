@@ -1,9 +1,9 @@
 ![Cover](https://github.com/Greshym/Greshym/blob/main/img/photo.jpg)
 
-### Hi there 👋 I am Boris Vallantin, young web developper from Rueil-Malmaison, France.
+### Hi there 👋 I am Boris Vallantin, a young web developer from Rueil-Malmaison, France.
 <br>
 
-I recelty graduated from [<img src="https://github.com/Greshym/Greshym/blob/main/img/CaptureO'ClockLogo.PNG" height="24em" align="center" title="O'Clock"/>](https://oclock.io/), where i scpecifyed myself in back-programming. But this is not all I ever participated to, so, where did I go ..?
+I recently graduated from [<img src="https://github.com/Greshym/Greshym/blob/main/img/CaptureO'ClockLogo.PNG" height="24em" align="center" title="O'Clock"/>](https://oclock.io/), where I specialized in back-programming.
 <br>
 
 - I'll be quick for the begining. First, I wanted to own my own pastry shop, so I learned everything about food in [<img src="https://github.com/Greshym/Greshym/blob/main/img/CaptureFerrandiLogo.PNG" height="24em" align="center" title="Ferrandi"/>](https://www.ferrandi-paris.fr/)
